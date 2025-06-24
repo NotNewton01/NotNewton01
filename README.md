@@ -2,7 +2,6 @@
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning GitHub & Godot.
 - 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me: e-mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I go caving
 
