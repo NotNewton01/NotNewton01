@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotNewton01
 - 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning GitHub & Godot.
+- 🌱 I’m currently learning ImGui & cooking.
 - 💞️ I’m looking to collaborate on everything.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I go caving
